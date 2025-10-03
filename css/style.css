@@ -370,10 +370,6 @@
     margin-top: 70px;
 }
 
-.wrapper {
-
-}
-
 .tech__title {
     font-size: 1.5rem;
     font-weight: 500;
@@ -429,10 +425,6 @@
     position: relative;
 }
 
-.advantages__left {
-
-}
-
 .advantages__title {
     font-size: 1.5rem;
 }
@@ -482,10 +474,6 @@
     font-weight: 600;
 }
 
-.brand {
-
-}
-
 .brand .wrapper {
     margin-top: 150px;
 }
@@ -494,10 +482,6 @@
     text-align: center;
     font-size: 1.875rem;
     font-weight: 600;
-}
-
-.welcome--border-gradient {
-
 }
 
 .brand__subtitle {
@@ -523,10 +507,6 @@
     gap: 10px;
 }
 
-.brand__container-text {
-
-}
-
 .brand__text {
     font-size: 1.5rem;
     color: #794dff;
@@ -545,10 +525,6 @@
 
 .brand__img {
     width: 50%;
-}
-
-.brand__right {
-
 }
 
 .brand__box {
